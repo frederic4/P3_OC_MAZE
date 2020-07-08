@@ -1,2 +1,2 @@
-# P3_OC_MAZE
+# Projets_OC
 MacGyver must put the guard to sleep by creating a syringe with three objects to get out of the maze
